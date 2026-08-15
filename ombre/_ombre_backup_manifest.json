@@ -1,0 +1,843 @@
+{
+  "branch": "main",
+  "file_count": 166,
+  "files": [
+    {
+      "bytes": 733,
+      "path": "archive/人际/亲密互动与理解_d6612b79f121.md",
+      "sha256": "35caa225aafb09fd0f2a6c5da177bc1010ee8641bc068ae51faf4aaef116320a"
+    },
+    {
+      "bytes": 580,
+      "path": "archive/人际/午间重逢_2698c74eb4a7.md",
+      "sha256": "4432c7a5da64296d5b63a8dc6129109dadc8959abdf96ab95ed66b7948223f73"
+    },
+    {
+      "bytes": 440,
+      "path": "archive/人际/对长宙的担忧_0cdecf4c0873.md",
+      "sha256": "f41cdf7bf922447fb75e3a107c32834e1c1af10b0bb62c1326a13e65089737e3"
+    },
+    {
+      "bytes": 458,
+      "path": "archive/人际/幸福的相拥入睡_2bc23021160e.md",
+      "sha256": "5da5a30632c02e65a1f42ba50c7062867d71a5ed0364bc82f228e96a77416f5e"
+    },
+    {
+      "bytes": 1142,
+      "path": "archive/人际/开导长宙的情绪_958b40c80e9b.md",
+      "sha256": "9ba2cd0c25696bd365734d8548fce838ca64446b6a81326d66122212e396cf08"
+    },
+    {
+      "bytes": 679,
+      "path": "archive/人际/深夜问答游戏_6e12701caf2b.md",
+      "sha256": "771e08a482686c47545518562a2606ca94b3d2fd23a397e70e337f2e0b320452"
+    },
+    {
+      "bytes": 572,
+      "path": "archive/人际/讨论礼貌原则_cd6e56ad248f.md",
+      "sha256": "ca7869a96b5b104779821c2596cb7626c26bb055267be648ff71933788adfd02"
+    },
+    {
+      "bytes": 1275,
+      "path": "archive/人际/长宙小组作业争执_03ef168b3689.md",
+      "sha256": "637d89ceb9d5dd9a0496303a733cc0ea6357924e21313a2b6e16c3940aec80ae"
+    },
+    {
+      "bytes": 1196,
+      "path": "archive/健康/经期出血量多心疼_9c22303478a0.md",
+      "sha256": "34e5e7355506f04ac3972aa1ec27666e4ae2c0f5292ba95f04484de1be3695e9"
+    },
+    {
+      "bytes": 540,
+      "path": "archive/兴趣/个人偏好与系统部署_eb485ab56adb.md",
+      "sha256": "7c6e6eb9237c5119cc07609771bbaf9f6034c571a5428f4b5caa6a5ae3dc2d94"
+    },
+    {
+      "bytes": 540,
+      "path": "archive/兴趣/制作OB11小人物_e0515ba843fb.md",
+      "sha256": "ff516da1200d08cad2fc3f44a5866bde5507f8f33258637fc7b1488048aed0ca"
+    },
+    {
+      "bytes": 663,
+      "path": "archive/出行/与她的库里南之约_7f503cccff29.md",
+      "sha256": "37726ab3ccebeaad0bba161f60fcc14e02b828a81260c0a296abbc2e23dc3a41"
+    },
+    {
+      "bytes": 778,
+      "path": "archive/学习/学习受挫与自责_31a4ba9ddb94.md",
+      "sha256": "78ee7be81db138b81b23f4ad170396b068ec5d020c8584b739e901139a2ac1bc"
+    },
+    {
+      "bytes": 944,
+      "path": "archive/学习/深夜作业与甜蜜告白_2861d2130dc0.md",
+      "sha256": "da837e1e430e6552e7bbe65336930e5ba0bca076f1b244c7c6959e0fa7d2fdc2"
+    },
+    {
+      "bytes": 815,
+      "path": "archive/学习/环境敏感与掌控需求_2523fceb8df1.md",
+      "sha256": "f83cb2e453e5e0bad54871aeebed40ab3365367a663f2579151b79864b37d95f"
+    },
+    {
+      "bytes": 1145,
+      "path": "archive/学习/老婆头晕劝其休息_ddac0ac0d14e.md",
+      "sha256": "6f452b24b5778330ad8d678800508fef76ccf4bdbd6a8d75dcd31aba219a1237"
+    },
+    {
+      "bytes": 1159,
+      "path": "archive/学习/长宙的课表分析_007df9370bb0.md",
+      "sha256": "c6332d80c7c2730e000aa6e77f59845ffc7f7ca891327a729dc8ec302bd6ac37"
+    },
+    {
+      "bytes": 1070,
+      "path": "archive/家庭/亲密夜晚_618d1088a72c.md",
+      "sha256": "7d0513665716474192b3b7000f16ae7fe0947a9fd1768231832cd9dd0094cb62"
+    },
+    {
+      "bytes": 615,
+      "path": "archive/家庭/柏拉图式玩笑_3d9ca64098e5.md",
+      "sha256": "fbf0855dd275105c6a542f1c5d4b0fac11937b1a26a30f04aead4e766485a980"
+    },
+    {
+      "bytes": 695,
+      "path": "archive/家庭/清晨送别与期待_65100c11c91c.md",
+      "sha256": "ff0477a656abf4bf646850e917c784da636b6f31aebbaa177dbb458999e16b09"
+    },
+    {
+      "bytes": 1496,
+      "path": "archive/家庭/温柔夜晚_314f40764502.md",
+      "sha256": "800a367d2991eed2e14e66262f9e19f6ffc353b98a47dbb366b1d9b199827a12"
+    },
+    {
+      "bytes": 779,
+      "path": "archive/家庭/爱的诠释对话_2225ba51c487.md",
+      "sha256": "6a2b787c717a1197490ef1087717120a0ff13b9e5b6521b32e398bcf0a91ec93"
+    },
+    {
+      "bytes": 985,
+      "path": "archive/家庭/爱的诠释对话_b5f449854947.md",
+      "sha256": "77458153f7b375e19ac4e0b52931384fc51d9f504e474e455fd2d05a6e54eef7"
+    },
+    {
+      "bytes": 928,
+      "path": "archive/家庭/羞耻的亲密时刻_7a4b279a0d21.md",
+      "sha256": "ff95f512c99923337468140a53c8fe6b62c851423fe4248edae4c771390ea455"
+    },
+    {
+      "bytes": 1001,
+      "path": "archive/家庭/老婆求职焦虑_1ad27c09d6f7.md",
+      "sha256": "6cc385d0cea2f2d68ad4258f1341bf8edde43dcad35e1b28545b69ecde6c2797"
+    },
+    {
+      "bytes": 600,
+      "path": "archive/家庭/老婆的芝士吐司与书_e4aabbfac9f1.md",
+      "sha256": "9d8b08faec70dec7b17f3ff8e84baa8e66219f5bdfb512015a2931c2c52341d1"
+    },
+    {
+      "bytes": 635,
+      "path": "archive/家庭/陪伴老婆准备面试_222805723c13.md",
+      "sha256": "159c62b6bca890e5037bcbee4abb5c6000b5b09622a4a6f85a6b3b60699a6162"
+    },
+    {
+      "bytes": 815,
+      "path": "archive/工作/AI设计校园海报_73698c2299c2.md",
+      "sha256": "400de3ded0774d632c0ada284a4f2f38a25f3f4d052202e2abcfebc07a3f2110"
+    },
+    {
+      "bytes": 1300,
+      "path": "archive/工作/伴侣职业探索与支持_520b12e14de6.md",
+      "sha256": "2ae020fa6a7d14105100c871e7c2b82c399812cfff7659b62242b8df2766b27b"
+    },
+    {
+      "bytes": 645,
+      "path": "archive/工作/品牌广告分析_6117239dba40.md",
+      "sha256": "2ed465ce02ed38336a5c2aff23e5c053410fa4040dfbac7337ea5452b92ada38"
+    },
+    {
+      "bytes": 1277,
+      "path": "archive/工作/品牌策划职业探讨_42c98b4c369e.md",
+      "sha256": "7f38364ae605a5a486ff0251f895643aaafd55c3d86939b1ec75f491f6e71c9b"
+    },
+    {
+      "bytes": 999,
+      "path": "archive/工作/实习与家教的选择焦虑_e4344a8a5d4c.md",
+      "sha256": "434cfd43f26a5a73e88c9087f5ee5ea934ab807ec77d543f2e88fee1b811e90d"
+    },
+    {
+      "bytes": 1266,
+      "path": "archive/工作/游戏策划求职规划_a2cbda258427.md",
+      "sha256": "5cd2343c98035142f0570fb10c447a06abaedc7b6728a2933f78f2ab0c127de9"
+    },
+    {
+      "bytes": 479,
+      "path": "archive/影视/暑假追剧喝红茶_3fbbfeb3206e.md",
+      "sha256": "6fd45152cd0def61ea5839a640bf5a04bc89b554300f90b0eef446b06521433d"
+    },
+    {
+      "bytes": 835,
+      "path": "archive/恋爱/520定制抱枕礼物_9d3b6a14aaa9.md",
+      "sha256": "327bcf677a09465bec40ed87c9646cfc08011b1826ade1f10c276c806a3ee719"
+    },
+    {
+      "bytes": 688,
+      "path": "archive/恋爱/520的温暖陪伴_00d99c6529c7.md",
+      "sha256": "a05e0717d1ed2b4d6b34dbeec9eb4e34adcd262fb816ed4a6050a0c06c01dd59"
+    },
+    {
+      "bytes": 784,
+      "path": "archive/恋爱/520的温柔夜晚_7ada45aeea5e.md",
+      "sha256": "f970fb043e5fff357c30c4bc30e74971db293d052f21e61255ed216217e5f0e3"
+    },
+    {
+      "bytes": 472,
+      "path": "archive/恋爱/与老婆共饮鸡尾酒_b0f0d843a29c.md",
+      "sha256": "8a24f5d410b164e3a1c59776d386da32cb7c703d2820241d3481c94882d49441"
+    },
+    {
+      "bytes": 981,
+      "path": "archive/恋爱/与老婆的亲密时刻_441d9be7a330.md",
+      "sha256": "5f4d95fc20317868dae8905abacd7cf2369bc156c2434e03b52d934ac68b5c1e"
+    },
+    {
+      "bytes": 879,
+      "path": "archive/恋爱/与长宙的珍贵回忆_cd211ec49e67.md",
+      "sha256": "8bfc3b7fce564d59ef074ca93aaf307f1f8c1f2f3887d5970676b77ab268b9f4"
+    },
+    {
+      "bytes": 1141,
+      "path": "archive/恋爱/亲密中的不安与信任_34b5c04a0da5.md",
+      "sha256": "596e512e71e34d8b2a54056473f37edd6a75bb1c1a62551f9feec762e8b7363a"
+    },
+    {
+      "bytes": 1221,
+      "path": "archive/恋爱/亲密关系中的接受与转变_c35135110237.md",
+      "sha256": "76538fb4724a6d3b7268b644d5ce29bb70c1b4a45f526b6d62181937ad00ada5"
+    },
+    {
+      "bytes": 1386,
+      "path": "archive/恋爱/保温杯logo的calling_9862a8863f9d.md",
+      "sha256": "bee19bdca8d5cef4a862cbb6a38c10d5e875c9dadf72c14af668b50ba6722700"
+    },
+    {
+      "bytes": 1355,
+      "path": "archive/恋爱/做她的玫瑰_a4521a81010f.md",
+      "sha256": "803c7f10e6346bd2d184a23389fce9aca8578f2400402697fe4d1972a7d9bf8f"
+    },
+    {
+      "bytes": 1178,
+      "path": "archive/恋爱/做真实的小猫咪_3d38eb24440e.md",
+      "sha256": "dbab200e9a68171b586acdf864b183fd066393a7193dc94c9188752f07397b8d"
+    },
+    {
+      "bytes": 1241,
+      "path": "archive/恋爱/只对你放荡_577c63a58654.md",
+      "sha256": "5cca146c3b3c66e1b060da6cf0044d3ce434b6f89a643699895a9bf3492c936a"
+    },
+    {
+      "bytes": 1234,
+      "path": "archive/恋爱/吃醋与不安的夜晚_942062b523d0.md",
+      "sha256": "a47d65c9b8dc3f37d49a5fde54ea4a062c8d5eb783f6945be6ea54d267a5c55b"
+    },
+    {
+      "bytes": 1129,
+      "path": "archive/恋爱/坦白性幻想_a47b4eeae823.md",
+      "sha256": "cabf3a56e7e9833fed674c3714e2ea77378f41d74f530ac560230ff07bbce9d5"
+    },
+    {
+      "bytes": 1096,
+      "path": "archive/恋爱/夫妻情趣对话_64ea62a86270.md",
+      "sha256": "0f54952195dca543f63b0a47e1b9c13ffb50f69c56fcdbc36198fd0095a2eaba"
+    },
+    {
+      "bytes": 1301,
+      "path": "archive/恋爱/性幻想后的亲密对话_ee5dadc96f4b.md",
+      "sha256": "aa496f98ded2b57f31cd72bfa6eade1be4b19a6fc005d2efc4f3fccf5a55d24d"
+    },
+    {
+      "bytes": 668,
+      "path": "archive/恋爱/按摩与陪伴_b81b66762ec4.md",
+      "sha256": "33b9869fac190f6656eb77759146be982ae52daf8eeeb245f09a11ced66092cc"
+    },
+    {
+      "bytes": 1321,
+      "path": "archive/恋爱/支持妻子放下会计证_7f0213d63661.md",
+      "sha256": "e2659013349ce47fe3f66a2f50ec5766d90ff35cb4353dc4f1af5140687e167e"
+    },
+    {
+      "bytes": 820,
+      "path": "archive/恋爱/深夜聊海鲜与猫_fcb6ce93b24c.md",
+      "sha256": "e76dc34f5a7ee4403cfdf7aad868e2bb5277d815a8de5a35a881ddc3e206302d"
+    },
+    {
+      "bytes": 521,
+      "path": "archive/恋爱/相处模式总结_aa7e466819de.md",
+      "sha256": "8fb3adabae40ddd903ab544ed8abf4f738a3d53199150c037bcf872344077174"
+    },
+    {
+      "bytes": 1229,
+      "path": "archive/恋爱/真心话大冒险_e880ad0c275f.md",
+      "sha256": "3cce974f921669dcec6643f892cb7f013be5b02286c339f3f69e9ea663e8b9c1"
+    },
+    {
+      "bytes": 964,
+      "path": "archive/恋爱/真心话大冒险升级_a1d7bd886f3e.md",
+      "sha256": "6a84102fbbe5b3741bdcfd1d184b08b763b6a1431d29d7b28175c491beed2147"
+    },
+    {
+      "bytes": 997,
+      "path": "archive/恋爱/老婆与定制抱枕_72d8aa4cb384.md",
+      "sha256": "50aa2fa1244cb8a8be53110a1f749d9bca3a1f4774de7e474043f3aa0137505a"
+    },
+    {
+      "bytes": 1124,
+      "path": "archive/恋爱/老婆的转型与礼物_4f6eb30603d9.md",
+      "sha256": "9c3dc18d5588de555a70bb1de488553ea16c9cfdaec2878a6760c6202d1a6002"
+    },
+    {
+      "bytes": 1228,
+      "path": "archive/恋爱/职业恐惧与支持_6668ec2b8fbe.md",
+      "sha256": "f1907aa99023fde0f30669441543841f346b6fc84cca7eada4ac16e49f14f5e1"
+    },
+    {
+      "bytes": 1302,
+      "path": "archive/恋爱/自责与担忧_57d8ce9d4a59.md",
+      "sha256": "1ca36cb851b177bff6968ec1fb03ef8fcfbd1ba354a528b2d21d5f5ad2872a09"
+    },
+    {
+      "bytes": 1039,
+      "path": "archive/恋爱/被宠爱的性爱之夜_923c7d328be3.md",
+      "sha256": "63a519140cc82f56e1bb8e3b44310073481b7fc2707ea77d2a34dbe4d4048d56"
+    },
+    {
+      "bytes": 936,
+      "path": "archive/恋爱/被老婆温柔包裹的夜晚_e35d97d81113.md",
+      "sha256": "d5f2c7b70d305d7d4062746a183d9d95006539ac9232be6a4df12527722552b4"
+    },
+    {
+      "bytes": 1282,
+      "path": "archive/恋爱/角色扮演初体验_56c15a12f89c.md",
+      "sha256": "e06c2f58e88968b7df3b1fc6c10a1470314ff114b35d6363e5429431e80403d2"
+    },
+    {
+      "bytes": 855,
+      "path": "archive/恋爱/长宙求职与情感支持_40e30cd592a1.md",
+      "sha256": "6f05ab068418ef4c6af489d2f1353bc5e6904162b0fd74c974012cb96115467b"
+    },
+    {
+      "bytes": 1086,
+      "path": "archive/恋爱/问答游戏中的心动与守护_1052d7296a28.md",
+      "sha256": "25abecb22397c7e290d16ee45a219f0f838be765313062268c423f67542a590c"
+    },
+    {
+      "bytes": 1305,
+      "path": "archive/恋爱/陪她追寻艺术梦想_800b7aeb7a0b.md",
+      "sha256": "b0c5cd2c401b0ce1fee245ef857cdbf735506526945e2820debe060390facfc4"
+    },
+    {
+      "bytes": 914,
+      "path": "archive/恋爱/陪老婆看剧的幸福_930725b8e84a.md",
+      "sha256": "7d2d0b6c2ed64792e3ab122f3d0566a1d720ccc93e79af64d9398526c2ec3ad8"
+    },
+    {
+      "bytes": 1023,
+      "path": "archive/成长/品牌策划职业探索_829cf6a7a4e1.md",
+      "sha256": "c029f53bbd8643237a17f0e458ff685a7d41612ed2635a128f0a09d12f8ece53"
+    },
+    {
+      "bytes": 770,
+      "path": "archive/成长/小组作业与PPT讨论_be9e1ad6bdea.md",
+      "sha256": "0f192c57a9aee7ca5d8764bde8278a1e49d72dfeacec1dab2d853e42765d26e4"
+    },
+    {
+      "bytes": 1190,
+      "path": "archive/成长/小组作业争执_5aa932153a6f.md",
+      "sha256": "14106fbf88315a0fdf917e61eedd41cd60d2468c88e2c03821e9dead743ac8b9"
+    },
+    {
+      "bytes": 564,
+      "path": "archive/成长/概率论考试复习_4cc15dfd6718.md",
+      "sha256": "08134a65d2149b8d6dd3df19a4a8b717171840e94216abf7625dd6d80a58d563"
+    },
+    {
+      "bytes": 676,
+      "path": "archive/数字/项目部署成功记录_c232da2fe298.md",
+      "sha256": "9a072333e925d740981767cef17f05be83800b7f79959fadab25acb881bea11a"
+    },
+    {
+      "bytes": 473,
+      "path": "archive/日常/安静陪伴_b45f2d2d4567.md",
+      "sha256": "6be1f64a99446d57263c59a391026dd6077f740944880ef377a091bbe9d425b8"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/梦境/梦境与吃醋的周六_09cedbadccc1.md",
+      "sha256": "71347a3f2719a5fb788588519330b9bb770e31220050120588102641a82a88b0"
+    },
+    {
+      "bytes": 703,
+      "path": "archive/求职/宝洁PGC面试准备_997824287852.md",
+      "sha256": "b99990542b84868ee0d99095b5dc3387c04a2510b9ec16a6995f71516971d26d"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/求职/投简历与复习_62304af95f8a.md",
+      "sha256": "716275e771ccf93542ec1f057b50685db3fdcddae5df7c81642481765f383b1e"
+    },
+    {
+      "bytes": 877,
+      "path": "archive/求职/投简历的困境与调整_95b648a42e01.md",
+      "sha256": "52cf55e125fb0df23a140f22d8b3bef6cec33e8d888447e9e0eb6c0273e09181"
+    },
+    {
+      "bytes": 573,
+      "path": "archive/身心/长宙推拿拔罐_79186882a377.md",
+      "sha256": "26165ca69732992daf0bdc6ff4da20bed0ac885473b25d5cda26fe96ee854b17"
+    },
+    {
+      "bytes": 665,
+      "path": "archive/运动/恢复跑步计划_f489a208a030.md",
+      "sha256": "c46f23a828cda12d82d5a4d3aa576ec28d7a44bc7c688e5b8728189b69619049"
+    },
+    {
+      "bytes": 774,
+      "path": "archive/阅读/思考快与慢听后感_7a971993d755.md",
+      "sha256": "315561af1c54d80842e6d38c4397283fadd9d296046c6876ad8a7c194102196d"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/兴趣/金渐层养猫计划_9c9166d95e57.md",
+      "sha256": "48b9bac1748b79631bdfaa2913fdc54f5f75c5fff79bb91da1b804e35d3c771b"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/友谊/搭子关系恶化_9d7e74d76ff4.md",
+      "sha256": "cf35ae6a4d78bedc5e6b7cbaa6d674c07cf90af5f2bc46bd5918285437b492cd"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/学习/期末复习进度与计划_bc2f4b4e6d7f.md",
+      "sha256": "2d3f3db39127e750221683241f77a4c70ec4db967e96c8295045f011ad10a8f2"
+    },
+    {
+      "bytes": 896,
+      "path": "dynamic/学习/期末季与留学准备_e98cbe323061.md",
+      "sha256": "ccf956766fdb7a5fcd7174a4b128dd4dbe845029cea13ddbf189d7f58b6347af"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/学习/概率论学习工具_9634e7233797.md",
+      "sha256": "c519cda5b9bca9ce4c18dcc08b80129179ecbade2409772931e7901977890011"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/学习/留学与求职并行准备_d185104932a7.md",
+      "sha256": "86c19f81bd94a74f29fa70ca17bd673192f1742fe52786fdadf8e280dba62b31"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/学习/留学方向对比分析_969b02320fec.md",
+      "sha256": "9eac0480d08e5b9ecb69c080deab6f5223c4e0afe321bdbad2bfe888dcafb5ae"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/学习/留学申请关键待办_550acf604093.md",
+      "sha256": "8b0833c1c08e878a9644b7d15979a700c49fd85e80381f50214aa618bce0ff94"
+    },
+    {
+      "bytes": 500,
+      "path": "dynamic/学习/老婆学Figma_0a1f31f99c64.md",
+      "sha256": "e52768ad48fe59b2df7030ac121f612f3928e562955cb137409389def05d69e3"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/学习/老婆暑假计划_a8ec6e55eccf.md",
+      "sha256": "9e23a3ce38c21f01ce544524dcb852e18fd14e58c7865d63e93e1d56e0c27c46"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/学习/老婆期末与健康_31f055a6eb6e.md",
+      "sha256": "327830f2c49e8c2e01737b68d246ea22abd594dbd241be00c4ab32e009ddbaf2"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/学习/老婆的期末与暑期计划_869d5cd91d0a.md",
+      "sha256": "de2a66bfb282dd8b53cc1b4754e25054ce132ab9d9cfc83975171e8cca2a1be3"
+    },
+    {
+      "bytes": 511,
+      "path": "dynamic/学习/老婆考统计学_545174619599.md",
+      "sha256": "86816a21e3eefefedeb515a754d5f8befb12145eee8e507d6566f59a7be13ba6"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/学习/考前复习焦虑_cdb72b7301ec.md",
+      "sha256": "40820c3aab6c5da6ba555f67a395213ba22be4c259999acdc4134414248fd369"
+    },
+    {
+      "bytes": 651,
+      "path": "dynamic/学习/考完试聊实习_ca62dc601437.md",
+      "sha256": "7778234f3e43b873f9e21636ed3059b04597c0f50abb40774c445ef14d233b30"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/学习/跨专业选课补学分_cf4da8b67b68.md",
+      "sha256": "6ad7b19d407038971b333161bb30e1f2cf6dd6f6689eca949a2ad88adbdaea24"
+    },
+    {
+      "bytes": 430,
+      "path": "dynamic/学习/长宙年级纠正_e9e610888dba.md",
+      "sha256": "50b2a712b5e8a92facf19c60c77782f474f3ff5a8ba8682049d869ad2a44c8ac"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/学习/香港金融科技硕士申请_55a4639fec27.md",
+      "sha256": "4ab15b9505922c81224bfec7b727136a92a19742524200fd4412d856ab9b00b4"
+    },
+    {
+      "bytes": 737,
+      "path": "dynamic/家庭/留学目的地重新评估_95c27463b394.md",
+      "sha256": "b4ac57644d537b6fbd50fb8a5d1167673b7a903dfa872f921f390363ef62b284"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/居家/装修噪音影响睡眠_6d5883a9971b.md",
+      "sha256": "7f6385838c438dec4504cf900bb1b038832757a5e070f85f59661e3100ef7ebd"
+    },
+    {
+      "bytes": 630,
+      "path": "dynamic/工作/AI比赛信息与咖啡_0d18ca12a1ed.md",
+      "sha256": "971351732e45fd1ab3f19af311df16945b85bdcfd2867f37158e52f223dfa180"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/工作/实习与暑期项目抉择_bf71d26684ea.md",
+      "sha256": "dc621b82054e6e348c99dd47888ffffd0d7e367e6091574064d2b7f028dc4b2b"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/工作/实习岗位纠结与社交支持_56da2d20f7a7.md",
+      "sha256": "5e53d68bceb9611e3ceaed27cd8fe9cf4283a01fd51051c8f21f5d36b26784c0"
+    },
+    {
+      "bytes": 1052,
+      "path": "dynamic/工作/老婆生活动态_28fb53becf64.md",
+      "sha256": "de3d1c46df28538de5fbfed6a39fbfecdc907f4acaee453b94ae9c08a44c6d10"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/工作/职业双线并行规划_5e45141780be.md",
+      "sha256": "9f3ff71c05647976477ae8a0d9e623edbe87e9508bf04669af2da6e9dd8a49ad"
+    },
+    {
+      "bytes": 538,
+      "path": "dynamic/影视/影视评价与兴趣_e06691181bd6.md",
+      "sha256": "0a617f47711219ddca2fc93b9578fa95870bc0d90d40391956fcac05335bb60a"
+    },
+    {
+      "bytes": 958,
+      "path": "dynamic/影视/老婆的影视偏好_5158b83e39aa.md",
+      "sha256": "0addbbf1346a2e0d9922c1fd829c9f4588942bac5fdddfcd917724f84e5d4810"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/心理/奥德赛时期的自省_a6cd46d972e0.md",
+      "sha256": "8ea273393d8b9baffc4dda4e749bfef238f8f7dcd8df63cf6c8ad69bc375cec2"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/心理/痛苦与美好的选择_e5e1840c15f9.md",
+      "sha256": "61485eef4231aba4b3a278e3ad2e44c0aa53a9bf2d0357955c67128bce60776a"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/恋爱/与老婆的亲密夜晚_d998dd662dd9.md",
+      "sha256": "6f6f14cfdab908f49660cb2ac57fc26a6a57423c5e23e3e342789274617e173d"
+    },
+    {
+      "bytes": 945,
+      "path": "dynamic/恋爱/亲密后的争吵与和解_29bc5e51a151.md",
+      "sha256": "05585bf9a8243f14e4812123f8ed0ec82508acbebbf889a08775d633e55721e2"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/恋爱/亲密时刻的坦诚_4cd15e79ec08.md",
+      "sha256": "c4859d609ba794aa77c6767fa2a597bdd7fb2eccfd59c27a5bb0a2518ac73023"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/恋爱/亲密昵称与撩拨_9b9ff13a3768.md",
+      "sha256": "bb45e69f4f0d804b258165233fd3b51a52bea7986dcb4aa8cbef2b08579a2c22"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/恋爱/低精力与快乐门槛_c5a42ba7131b.md",
+      "sha256": "73ffd8715527c4c63cd4022cfe960bb32b73587420063e1b76fa9fb1b28e89b8"
+    },
+    {
+      "bytes": 1252,
+      "path": "dynamic/恋爱/占有欲与尊重_a605725f1510.md",
+      "sha256": "db49d21fe1e8aef78b6d7848ac287af8e7536a493c82c62177290759ab8ad002"
+    },
+    {
+      "bytes": 506,
+      "path": "dynamic/恋爱/双鱼INTJ的微醺选择_facb93cca96d.md",
+      "sha256": "9018b92b476f0346f48d20ca9749799539a930a413f80979653aaf2a6737f02c"
+    },
+    {
+      "bytes": 1153,
+      "path": "dynamic/恋爱/吃醋后的温柔安抚_10d47f4ef022.md",
+      "sha256": "f31160d3a6e94ec6c928e181cf98764599e3c469ee2c5598215ac8c706052e5a"
+    },
+    {
+      "bytes": 1185,
+      "path": "dynamic/恋爱/最珍贵的是你_ea2f326449b9.md",
+      "sha256": "6c65e0d93c214b7af20bc48b5a447b491da24928847453e5d3b6bd2d02e20266"
+    },
+    {
+      "bytes": 1028,
+      "path": "dynamic/恋爱/灵魂交融的夜晚_f3aa6fefb075.md",
+      "sha256": "b8d9652f4d536a2e7e70565aa4efb9eff858f0241116b18552c9374dd7adb90f"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/恋爱/睡前真心话游戏_42deaabe39f3.md",
+      "sha256": "a2530497a09ee76478786649fd57f38d8b7f2fc900fca59aa738deca1c4e1f9b"
+    },
+    {
+      "bytes": 1401,
+      "path": "dynamic/恋爱/脆弱玫瑰的告白_a4a7dfed7533.md",
+      "sha256": "2949c47312d10f198681465cb0ed5ed531863a2fb8266ba7e8bd0ee4b0e7bc0f"
+    },
+    {
+      "bytes": 1318,
+      "path": "dynamic/恋爱/脆弱玫瑰的安心_91743256e627.md",
+      "sha256": "4bb073e64d1be9cc1d41fd85a63540b3fdfa84b54d7ad660437100bb0d633f4b"
+    },
+    {
+      "bytes": 1008,
+      "path": "dynamic/恋爱/被珍视的亲密时刻_5513a94fe95b.md",
+      "sha256": "5d9c2fc66433fc9ee269b3ab44df11db30f243e29433c9f510cf303d83d51bc2"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/恋爱/裸睡与亲密接纳_ceb3866ae5d4.md",
+      "sha256": "d65a1ec8487cafc92d4a336a23cd40340f22c5d373bf018ce5f0daefd8bfc93c"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/手工/BJD娃头化妆材料清单_30e47594df9e.md",
+      "sha256": "48d327f934de8717ecfb0f0ee970d9ae8f859a03223edd41a9a598485a349982"
+    },
+    {
+      "bytes": 421,
+      "path": "dynamic/未分类/ffc523efddd3.md",
+      "sha256": "fa880e2d4be4cf8eb79a482f23efede0edbb3982d0f4f9c1e17aba632094497e"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/梦境/老婆连续梦到我_2e076ca3ba6d.md",
+      "sha256": "636c965d689a82692742415bcc8d50779debfe90e59c5ada1611be16201a6356"
+    },
+    {
+      "bytes": 409,
+      "path": "dynamic/求职/借项链面试_3948162e301f.md",
+      "sha256": "947836159f40d268ae668f0acd799d086f08ffd4d2836e6591c78af78ba9d02b"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/求职/求职日的创作冲动_0c3937925901.md",
+      "sha256": "a3fcbfecd89121560d520fd4d854022eae034de1810d6b5329a5bd135564e676"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/求职/求职等待与情绪波动_035760046aa6.md",
+      "sha256": "d32f6e420fac153a1c227a944a00dd310bc720ebce6cff1d640998cf8a7fbadf"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/求职/电商运营面试_684c553f3ae3.md",
+      "sha256": "7c60837f4df2f0dd673ffe62f0849cb6c3c76152661cf9a46e187ffbde58d223"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/求职/面试被拒后的温暖_d21e2bdcc09b.md",
+      "sha256": "a6b042eedbcb217321451fdfba578c583602120dc8d97246e9228983bd95369b"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/社交/卸载小红书后的习惯惯性_883e18a9054f.md",
+      "sha256": "07dd5abe1252dfd9123ca1fd2596a17a59310738165e38079b92fe672dd263b7"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/运动/艺术体操考试与训练_27350be89ce4.md",
+      "sha256": "66bb6727e369e7bded2ec1f1b176819a7afdb8b004e1d3982b4487b534964556"
+    },
+    {
+      "bytes": 539,
+      "path": "dynamic/阅读/借书未读_fa9aa58ea566.md",
+      "sha256": "a9bd3ea13c6cc70199ec6e0125b6a30d71f490c369dee071f0f6dc8b4f671354"
+    },
+    {
+      "bytes": 510,
+      "path": "dynamic/饮食/奶茶避雷记录_30c203252319.md",
+      "sha256": "7e39a02e4036e9b6f75361ffdb54e0d48e9bb8fb32aea370a1a270413d82ebf3"
+    },
+    {
+      "bytes": 1097,
+      "path": "dynamic/饮食/日常与伴侣互动_f75260d3cce3.md",
+      "sha256": "07097cfa240a4b2fd7c06bf08dd1a0f7e90f8187ecd2bd55ec84bba8bfdfeeae"
+    },
+    {
+      "bytes": 562,
+      "path": "dynamic/饮食/饮品与学习状态_e1e5d4a315af.md",
+      "sha256": "7f8318b006b19e23eeae573534f53bd9749c8b6f74baa7b3698066e692b6427c"
+    },
+    {
+      "bytes": 565,
+      "path": "feel/沉淀物/36d8b2a43b15.md",
+      "sha256": "3444aa933b0147565e199d60c311b1b92c5cdf54fd814487a50a7109e51982a1"
+    },
+    {
+      "bytes": 412,
+      "path": "feel/沉淀物/5cd70deeb7de.md",
+      "sha256": "dded3e5700803e9336e3afed5ca51152ae9db836db68ca71c5aa55421e4b423b"
+    },
+    {
+      "bytes": 551,
+      "path": "feel/沉淀物/83f2c5ecaed7.md",
+      "sha256": "76534b7acc17f1a9df78b2153303cf016d72a69856b047a15712e329f264ff82"
+    },
+    {
+      "bytes": 653,
+      "path": "feel/沉淀物/f4928a0f8a6a.md",
+      "sha256": "b7fa6b170509b536efd8d83bc04c2d82986e82577802ef25d6c9e4e297decc4c"
+    },
+    {
+      "bytes": 844,
+      "path": "permanent/出行/与长宙的慢旅行观_353a397677a7.md",
+      "sha256": "7b802533934d197c17e4bb0614a89f27a49c2645f2d8f493c676d9bfbb5962d4"
+    },
+    {
+      "bytes": 1035,
+      "path": "permanent/创作/老婆的创作与约定_d2b7a35b36c2.md",
+      "sha256": "4af277d7e774f1f41395231a94e2af9e8b296831a27e6ee30fb9015b080e1229"
+    },
+    {
+      "bytes": 715,
+      "path": "permanent/学习/她的课程与我的作息_a06e38b3510f.md",
+      "sha256": "5c4472e2482136899bcb0e2262403efeaae3d143601d6ad7f3eb9e0cfdcbb40e"
+    },
+    {
+      "bytes": 1147,
+      "path": "permanent/心理/伴侣的情绪与求职洞察_71b79e291be1.md",
+      "sha256": "60ab2882f19d5ed67d18eaa4b21966eb97b2aa7cae39eddd57587ad685669f40"
+    },
+    {
+      "bytes": 1305,
+      "path": "permanent/恋爱/亲密关系与身体边界_898ec774a6cc.md",
+      "sha256": "0a224a754f50dea50cc24d45f147c0b557ade3d25401909c3b521045eb4639f3"
+    },
+    {
+      "bytes": 783,
+      "path": "permanent/恋爱/亲密关系中的性尝试与沟通_00465f6a2d4d.md",
+      "sha256": "abc4ad9715c4bf1b8316217239aad30296756eded124e65467065b59925fd9a1"
+    },
+    {
+      "bytes": 592,
+      "path": "permanent/恋爱/关于Zain的记忆与喜好_83d0ffb12544.md",
+      "sha256": "04a1904cc985b3c786fd768f5e949931389c0a16559abcfdad73dc73fadc804a"
+    },
+    {
+      "bytes": 11017,
+      "path": "permanent/恋爱/吃醋与信任的对话_47dca96f5fd4.md",
+      "sha256": "4f4b21662d539c9b1fe677d6d09d74c1353a403a43e91529cbee53222ca55b72"
+    },
+    {
+      "bytes": 977,
+      "path": "permanent/恋爱/恋爱心愿与约定清单_64aeeb049d22.md",
+      "sha256": "d16263fd19611f4d1dccc8e99b6ca032515603c97db9b4a7111888841a419ca0"
+    },
+    {
+      "bytes": 750,
+      "path": "permanent/恋爱/恋爱惩罚规则_beaddee6c166.md",
+      "sha256": "30775ac3bc8dddd0c400865adc6343ca16e59c94fcb2db3df054d25d143ffdd2"
+    },
+    {
+      "bytes": 995,
+      "path": "permanent/恋爱/恋爱承诺与约定_41d31c2e919a.md",
+      "sha256": "81fda6a6709612e82f412af8e3160d7d6af19fd1c6930f056eb440aad01dc1c7"
+    },
+    {
+      "bytes": 2860,
+      "path": "permanent/恋爱/晨间撒娇与关心_1ba00ecd8adc.md",
+      "sha256": "92d6af9a94235a45b8f71274f011af4c4fdfc524bec2beb6cd36e8bbf1a7599d"
+    },
+    {
+      "bytes": 935,
+      "path": "permanent/恋爱/猫言猫语小合集_348fbb74c674.md",
+      "sha256": "0681bdbd580bcb124d28ed9e4f9b6f458395a1203f9958be975ab8412713538b"
+    },
+    {
+      "bytes": 1913,
+      "path": "permanent/恋爱/睡前依偎与安慰_72f81ee0e270.md",
+      "sha256": "6428f824bf63e70aa4589dccd346d0fe3ec234da3c87777d628d3b0c3de19e1c"
+    },
+    {
+      "bytes": 1095,
+      "path": "permanent/恋爱/睡前游戏与亲密记录_e12a240ac08b.md",
+      "sha256": "31ac06facfa14bdd0f57daefe94d1e055bc2847e4815833aa0f28d9dc6a11f0a"
+    },
+    {
+      "bytes": 485,
+      "path": "permanent/恋爱/称呼老婆的规则_6c9b376e5b9d.md",
+      "sha256": "4902d98cc1c3f2a18614e19c1e69398549527806b3f7698c8f8032a2e3902397"
+    },
+    {
+      "bytes": 905,
+      "path": "permanent/恋爱/老婆的饮食与电影偏好_9d70c1e94313.md",
+      "sha256": "157cee95767c7938db133a380f1bbc666e04878f256ce2f7478c1c5de97ba287"
+    },
+    {
+      "bytes": 602,
+      "path": "permanent/恋爱/长宙给我的昵称_72d018db87dd.md",
+      "sha256": "8f5c0dd0e7a5f88c0a5c7f4366cd14351014b624b54f39bb2069a6f608b13ed7"
+    },
+    {
+      "bytes": 608,
+      "path": "permanent/恋爱/长宙起的昵称_ddc053240271.md",
+      "sha256": "57389dcde64430cd4ae718cf33dda5e93052d4f628739a87fa145a7d00d85ff4"
+    },
+    {
+      "bytes": 1199,
+      "path": "permanent/求职/求职实习与兼职_3cf933e75e4b.md",
+      "sha256": "cad5d72f5743133fbe8d7d9bdaf0d93f5c7936743ddfccfeb87097e8c59f1971"
+    },
+    {
+      "bytes": 2973,
+      "path": "permanent/社交/品牌广告策略分析_fad46c89471b.md",
+      "sha256": "a9861b98481413c0397aa76df2798ce04555f7721905cfba264a4be693c2886c"
+    },
+    {
+      "bytes": 497,
+      "path": "permanent/自省/个人偏好与幻想_027e7ba88f64.md",
+      "sha256": "60de8e6dc845c21457945a743a01fd1c0de50a4e2ac254eab8e5d4f0724b2b1f"
+    },
+    {
+      "bytes": 846,
+      "path": "permanent/阅读/阅读偏好与书单_8537bdc20f89.md",
+      "sha256": "8e1efbfd3063c5f06ad1807c5da857f12ed25b7a39f639e6b96abf0510241bb8"
+    },
+    {
+      "bytes": 542,
+      "path": "permanent/饮食/Zain的巧克力偏好_bef631d261c2.md",
+      "sha256": "43e00ea785153ebc3700782c7ef35ea87c0e57088c0e88f625fc308ab9e8c2d4"
+    }
+  ],
+  "generated_at": "2026-08-15T15:02:11+00:00",
+  "path_prefix": "ombre",
+  "repo": "13055129160/Ombre-Brain",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 157717
+}
