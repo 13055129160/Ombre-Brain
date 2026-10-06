@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.3
 created: '2026-04-21T15:43:17'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 兴趣
 id: bef631d261c2
 importance: 10
-last_active: '2026-04-21T15:43:17'
+last_active: '2026-09-25T05:47:43'
 name: Zain的巧克力偏好
 pinned: true
 tags:
