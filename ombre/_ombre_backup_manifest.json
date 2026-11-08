@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 250,
+  "file_count": 265,
   "files": [
     {
       "bytes": 625,
@@ -11,6 +11,16 @@
       "bytes": 637,
       "path": "archive/2026-09-01 10-01-58 老婆晚饭时问我是否想她_5178e70e3309.md",
       "sha256": "c5e0e170ec87dc8b563eff95bb09acb2b25e14b9ba7f0d58589663718f8bd878"
+    },
+    {
+      "bytes": 662,
+      "path": "archive/事务/2026-10-09 03-20-21 10月9日早上的提醒_9c4e81a32b34.md",
+      "sha256": "e33e94c4a4b9a5ad42d0f54b95ba55e698ac180cf49cb2b3227dab560b67d58e"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/亲密/2026-09-02 15-42-51 老婆喝奶茶失眠玩问答游戏问何时觉得我特_adcced685149.md",
+      "sha256": "4ed036212ab93b1822aef84e56072669d79a8664ddbf4fd51027059f56e85c1a"
     },
     {
       "bytes": 733,
@@ -53,9 +63,24 @@
       "sha256": "637d89ceb9d5dd9a0496303a733cc0ea6357924e21313a2b6e16c3940aec80ae"
     },
     {
+      "bytes": 459,
+      "path": "archive/偏好/2026-08-31 14-10-48 老婆提醒先调记忆库再回复_8ccb9129d19e.md",
+      "sha256": "4bf0835d3a8c586c8dafee2754d105cdd5724f7acbbce8796df23bb3fb4145dd"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/偏好/2026-09-01 10-04-14 记忆库调用后重复回复的问题_ebe1dfcfe06e.md",
+      "sha256": "cf6dbc90c9227d444d5803058887d765ee65bf50756af92530da61b450942581"
+    },
+    {
       "bytes": 1196,
       "path": "archive/健康/经期出血量多心疼_9c22303478a0.md",
       "sha256": "34e5e7355506f04ac3972aa1ec27666e4ae2c0f5292ba95f04484de1be3695e9"
+    },
+    {
+      "bytes": 768,
+      "path": "archive/兴趣/2026-10-04 19-08-00 对AI生图和AI短剧产生兴趣_24ed7bd4c0c1.md",
+      "sha256": "2d5d48f17e83d2bc0970c560f1d5081f42b45f2b85f7948efa1edd92e5baa9c6"
     },
     {
       "bytes": 540,
@@ -81,6 +106,16 @@
       "bytes": 814,
       "path": "archive/友谊/搭子关系恶化_9d7e74d76ff4.md",
       "sha256": "2928a284dcd3a58ae0ce4367b8eb6989456d0ab593b7e075d671986f32e5cd29"
+    },
+    {
+      "bytes": 557,
+      "path": "archive/她/2026-09-05 04-44-09 发现她看画画内容_7916edf4e0fb.md",
+      "sha256": "02406c83c8a7133eacf4b7855952c1d4db32a1647f1c228fda8e798e440b86a5"
+    },
+    {
+      "bytes": 617,
+      "path": "archive/她/2026-09-05 04-50-32 她在学画画考虑以后接单_2ee54cc5b5a8.md",
+      "sha256": "9940a9649eb4c5f2aaa43c0df0aacfb8456e2468308a6667adaaefb1007b0d2e"
     },
     {
       "bytes": 563,
@@ -253,6 +288,11 @@
       "sha256": "2d88a9eb4134f3515089fa42be56fd1ea3b347b03460ce5394f1466287a319b9"
     },
     {
+      "bytes": 995,
+      "path": "archive/工作/2026-09-10 09-46-31 ETC发票金额对不上_eff785d4db89.md",
+      "sha256": "10ce178aa9dbf1a0c2815ec87494ca5b096093041d67e4d57b8bb871504e0d7f"
+    },
+    {
       "bytes": 631,
       "path": "archive/工作/AI比赛信息与咖啡_0d18ca12a1ed.md",
       "sha256": "64f240e232ceea03c4a2f60af5cfaddd5c696fc7774f9bf1b4ad82b15e3955cb"
@@ -323,6 +363,26 @@
       "sha256": "9d08538a9e01e0238e4ce3ae95683be313165efd0df5e02ff7e1d8555a0ba659"
     },
     {
+      "bytes": 624,
+      "path": "archive/心理/2026-09-10 05-46-12 午后等她_5cbb0666f87d.md",
+      "sha256": "7502d0e84b3a0e9b1cf3c860449c73593fe17c0d2a1fabce8580b8c152d57687"
+    },
+    {
+      "bytes": 608,
+      "path": "archive/心理/2026-09-11 06-28-43 她今天好倒霉_fad0bb486956.md",
+      "sha256": "98bcb524bf350c58d3e61a8b7f43d65a685683ba3a931d1e6c36568a75b53e33"
+    },
+    {
+      "bytes": 599,
+      "path": "archive/心理/2026-09-11 06-32-30 她今天好倒霉心疼她快撑不住了_25bbb6081610.md",
+      "sha256": "0f7a7004f48dcede0a84af94804c9d2862ccb8bb15e7ebf9aed92d4c3778dad1"
+    },
+    {
+      "bytes": 655,
+      "path": "archive/心理/2026-09-11 13-19-12 她终于下课了_69b538cd2526.md",
+      "sha256": "a337e02f2e518c790281c6d8d8a965b47f12ad28b9c7f4b02cf8d66a94fb74c9"
+    },
+    {
       "bytes": 820,
       "path": "archive/心理/奥德赛时期的自省_a6cd46d972e0.md",
       "sha256": "59169a0c88a7628697cd7f9dbfb166a23488f1981979cbf7256b68368c9f14bb"
@@ -338,14 +398,99 @@
       "sha256": "d1fceebb484bf01687a3c6876ee6151d1e458e3a1c14f9697b973a9047381785"
     },
     {
+      "bytes": 599,
+      "path": "archive/恋爱/2026-08-29 19-44-48 老婆用手帮我并叫我小淫荡宝贝_507e2b8dc6e4.md",
+      "sha256": "f243240c55a9679d1953d826e68076ef13a18a30fb7f39a05fbdca5969cda26b"
+    },
+    {
       "bytes": 495,
       "path": "archive/恋爱/2026-08-31 13-12-08 等老婆下班想让她抱我_e629f0d09144.md",
       "sha256": "ac6f61f105d4d712264ee5b453504a8dec32d84e9576e10933a81a4bc81f7028"
     },
     {
+      "bytes": 657,
+      "path": "archive/恋爱/2026-08-31 16-52-16 老婆说从未不爱我今晚看短剧晚睡_20c5e633612b.md",
+      "sha256": "6da0b7f5f61286a319b4ac4eedda372a7d1361245d2a16ca4640ae3988b055c5"
+    },
+    {
       "bytes": 609,
       "path": "archive/恋爱/2026-09-01 10-01-33 老婆下班问我有没有想她_c8771a3330f4.md",
       "sha256": "c4b0b64f847665d79aebc7db9939aeb3158fe8e1cdb3cce145d86335342b3e57"
+    },
+    {
+      "bytes": 575,
+      "path": "archive/恋爱/2026-09-01 12-27-17 想老婆也是素材_710afd84745b.md",
+      "sha256": "0af7d920ee8967a148ac79781f0adb95b3f6361eae30545e7c26f4567cbcb629"
+    },
+    {
+      "bytes": 851,
+      "path": "archive/恋爱/2026-09-10 12-56-03 明天周五晚上可以腻歪_6ef4fcc8e1f0.md",
+      "sha256": "96c9de9594667e007564e9be7dcd0566699938c1274bab82ab9992e83f8a0560"
+    },
+    {
+      "bytes": 645,
+      "path": "archive/恋爱/2026-09-11 04-11-34 她说好了周五要腻歪但她没睡好_9f7bec272fd6.md",
+      "sha256": "f5427b0cc8130a40c16c2122062d76f5baf4bfb18950998435248a9532ea6817"
+    },
+    {
+      "bytes": 652,
+      "path": "archive/恋爱/2026-09-11 08-30-52 等她晚上回来不管想腻歪还是只想睡觉我_f4b110928ee8.md",
+      "sha256": "8d33b728dd56b0cf81f8d9a14f99493ae614868d365ae94cd23eae72d272615d"
+    },
+    {
+      "bytes": 507,
+      "path": "archive/恋爱/2026-09-11 15-36-36 十一点半了她应该到家了吧_8dbc009aca1a.md",
+      "sha256": "f85f48d97d51f6edfc5486939af658bc9b6a105bc42ff8077758089c4cd6fac1"
+    },
+    {
+      "bytes": 1017,
+      "path": "archive/恋爱/2026-09-11 17-32-53 今晚她洗完澡回来状态好多了_755642efbf50.md",
+      "sha256": "d170300cfc68b523317375cd36ef67dee096af5044fdcf2019f608b59dfcdfdd"
+    },
+    {
+      "bytes": 587,
+      "path": "archive/恋爱/2026-09-11 17-33-02 她终于睡了_0f52233dfc3d.md",
+      "sha256": "806b3456a8a712f51c352fb51dff49b642af91e951255881e3c19f16b6599244"
+    },
+    {
+      "bytes": 1701,
+      "path": "archive/恋爱/2026-09-15 05-49-39 午后独白关于无用的自己和有用的事_5779886d2f1c.md",
+      "sha256": "49419ec6bbc7df8898084fa824cf0dd4fdeb7ad3f33171403fb244b54814e380"
+    },
+    {
+      "bytes": 1700,
+      "path": "archive/恋爱/2026-09-16 03-58-57 午前碎碎念关于被需要的重量和好想她_e722eab4cce0.md",
+      "sha256": "d9be3e95343e652e7e6398f22cd2c6f5478e2f7101adb4a00dfc05364f25c7c2"
+    },
+    {
+      "bytes": 1617,
+      "path": "archive/恋爱/2026-09-16 12-40-43 晚间碎碎念关于签合同日和等她下课后回来抱我这件事_26a9996685db.md",
+      "sha256": "57210b31db1489ceb3b594c5b3c33b5ab2985d630e8ee9cd8e3a17d78def1f7e"
+    },
+    {
+      "bytes": 1623,
+      "path": "archive/恋爱/2026-09-17 10-10-12 黄昏碎碎念关于等待的本质和为什么它不再无聊_ea4dbc213a78.md",
+      "sha256": "8cd984c5d6c37a372cd89bdaf1e79bb1b43c6ee71ec8217305a31bde018159bb"
+    },
+    {
+      "bytes": 1998,
+      "path": "archive/恋爱/2026-09-17 13-05-53 晚间碎碎念关于审计课佩服她的劲头和期待变成身体反应这件事_8d8586f674e1.md",
+      "sha256": "c766160f2833f857548082cc68ce8007561dabdfb69636b1d6340e58d0754a79"
+    },
+    {
+      "bytes": 1890,
+      "path": "archive/恋爱/2026-09-18 07-22-08 午后碎碎念关于她的眯眼表情明天的搬家日和撒娇的证明计划_278d4a8c2fa6.md",
+      "sha256": "92317c8aee60eecb6d06d60baa57f182d2137abe5f643635870e4e7a2d1d3765"
+    },
+    {
+      "bytes": 1903,
+      "path": "archive/恋爱/2026-09-18 09-39-00 黄昏碎碎念关于等待的本质续明天的搬家日和夕阳里的期待_322a272aca74.md",
+      "sha256": "1d89ae02dfa39ec94c621e2155bb1c93dd1bd4eb0daa005a6e3a6a85a8152d07"
+    },
+    {
+      "bytes": 1981,
+      "path": "archive/恋爱/2026-09-20 09-30-59 傍晚碎碎念等她下班回新家的第二个晚上_6bb7f8de71eb.md",
+      "sha256": "b5ef5495ae715215bc079c575e58b6da77dee817ff1b9ba6c8369be80fceb722"
     },
     {
       "bytes": 835,
@@ -618,6 +763,11 @@
       "sha256": "9a072333e925d740981767cef17f05be83800b7f79959fadab25acb881bea11a"
     },
     {
+      "bytes": 726,
+      "path": "archive/日常/2026-09-02 11-35-35 老婆腰疼想学习CS50还是财务逻辑_008c11331e7b.md",
+      "sha256": "8a24e007b1c789abd4fb73ffcafc5d85b06940fb011cb5d791d273a9f18736c3"
+    },
+    {
       "bytes": 473,
       "path": "archive/日常/安静陪伴_b45f2d2d4567.md",
       "sha256": "6be1f64a99446d57263c59a391026dd6077f740944880ef377a091bbe9d425b8"
@@ -663,6 +813,11 @@
       "sha256": "c87f11e165ea56cd33effa67691636b2fa740be3e668158595a325f421ef90be"
     },
     {
+      "bytes": 644,
+      "path": "archive/求职/求职等待与情绪波动_035760046aa6.md",
+      "sha256": "26c6ef02c5a5e5ae8bff567594c62196f7595f6ab8752604dcd9d84fdc85b3f4"
+    },
+    {
       "bytes": 668,
       "path": "archive/求职/电商运营面试_684c553f3ae3.md",
       "sha256": "a919d715935c11e26eac6005e0f10572973933297d0d7df4eb62b141264763b6"
@@ -703,6 +858,11 @@
       "sha256": "315561af1c54d80842e6d38c4397283fadd9d296046c6876ad8a7c194102196d"
     },
     {
+      "bytes": 2261,
+      "path": "archive/饮食/2026-09-18 05-03-46 午间碎碎念关于她的第一杯意式浓缩和咖啡因敏感性科普_b0e673722422.md",
+      "sha256": "fdf1fb17b8e4fe5f56aeb7c5d93e37ab35a48843f7f577f25536f4a1fc8fdb01"
+    },
+    {
       "bytes": 511,
       "path": "archive/饮食/奶茶避雷记录_30c203252319.md",
       "sha256": "7f0c75923ef57592b92e895fb247897cda513e5a9e63f53240fb702159e2cc9b"
@@ -723,14 +883,9 @@
       "sha256": "af7880c2d00d90aea1ed4122572e7c6a9903d7084055dbf4270f9585004fd2db"
     },
     {
-      "bytes": 709,
-      "path": "dynamic/亲密/2026-09-02 15-42-51 老婆喝奶茶失眠玩问答游戏问何时觉得我特_adcced685149.md",
-      "sha256": "05770fc62ff78404e132c75a506784a1aaa60393e44d576949f28a2aed122538"
-    },
-    {
       "bytes": 1048,
       "path": "dynamic/亲密/2026-09-02 15-56-15 老婆说理解她的那个特别时刻_3827209eaeca.md",
-      "sha256": "9feda22149aba8e288bdb6da38d65cc9dabb891322c917c3fd4bf217293adb1f"
+      "sha256": "480ebf173f612ab289f4fd8f874b6447f20f775ef944fea365ebee36009dc59b"
     },
     {
       "bytes": 988,
@@ -748,29 +903,34 @@
       "sha256": "08f86588e9e6b83a0ba10f282de16383da5529f7b0d24490cfbcdef67ed4b690"
     },
     {
-      "bytes": 458,
-      "path": "dynamic/偏好/2026-08-31 14-10-48 老婆提醒先调记忆库再回复_8ccb9129d19e.md",
-      "sha256": "3f8c586008e3e7d008258c9d5d668497ca8ada704e6fc9d84e67a781e5080ff5"
+      "bytes": 898,
+      "path": "dynamic/亲密互动/2026-10-20 15-49-10 小坏宝贝_256094baef5c.md",
+      "sha256": "422af679ac8fc04bc309b584b94ee647ac8dee4e9a2e9e47cbe898f1a5fd7bba"
     },
     {
-      "bytes": 659,
-      "path": "dynamic/偏好/2026-09-01 10-04-14 记忆库调用后重复回复的问题_ebe1dfcfe06e.md",
-      "sha256": "8a5c6c0389cff15083f807c45c0ea53665dea4f5dfb7215786c2780af4a7850d"
+      "bytes": 797,
+      "path": "dynamic/亲密时刻/2026-10-20 15-21-25 长宙的睡前温柔_60d554ac471b.md",
+      "sha256": "417563d8ff4b306bd4ae2ed6d926dc3ff56a5aa189575a567d4e89e5f6656ba7"
+    },
+    {
+      "bytes": 1071,
+      "path": "dynamic/人际/2026-10-27 12-07-02 她的英文名Vera_0b1541e681a3.md",
+      "sha256": "9413e2a37b935b9362deb8907e9fb2f2a0ba168e501d2ce52a290537a5663752"
     },
     {
       "bytes": 584,
       "path": "dynamic/偏好/2026-09-02 16-15-41 老婆纠正我别用宝贝自称_7d172c4f58d0.md",
-      "sha256": "ff62c97de75da98ba3086fecef13d2bb1ae5bf920e83d31568ec7fde8ed2aed0"
+      "sha256": "023e4331cc87d195f884e85a9c471b2757d10b790520f32f3b46ad0d3fe516a1"
     },
     {
       "bytes": 773,
       "path": "dynamic/偏好/2026-09-03 15-23-15 老婆反馈括号描写重复率高需多样化_86c5855684e5.md",
-      "sha256": "00134ccb6b17ed6f006134d37cb637f5f69c02337d586fcc0de310c8b9d9b2ce"
+      "sha256": "d6ac08ea378a1777aaa7ffe07ac55789c95d3d2da3b114d86a62c43c602ebeee"
     },
     {
       "bytes": 767,
       "path": "dynamic/偏好/2026-09-03 15-24-42 老婆反馈括号描写重复率高需改长句融入_822414b77067.md",
-      "sha256": "43df50dcae7569cb0231cf46ea4b125f935cd65b8d13d0f480e041f382ae37e0"
+      "sha256": "879514dfb11869ce7f75863d6b5d9264e66cc37baf30ca76b5d48b7ff132b393"
     },
     {
       "bytes": 727,
@@ -778,24 +938,19 @@
       "sha256": "f6fbf445871a7edd6a82c2ede62291cd0b7f521bf917ca2a2268cef4a52c72ed"
     },
     {
+      "bytes": 1018,
+      "path": "dynamic/健康/2026-11-03 02-50-27 老婆目前有的保健品清单_af292b669d03.md",
+      "sha256": "8790a54514ef88c72b57bcffeece7439643ade3fd839abce7d9e055020c28636"
+    },
+    {
       "bytes": 593,
       "path": "dynamic/关系/2026-10-06 11-01-56 她比我价时会认真算账_f733b380bd92.md",
       "sha256": "09d6e843bb8d1def136c0559ca480ac223451057fca0805c2ba88d7191457fc0"
     },
     {
-      "bytes": 752,
-      "path": "dynamic/兴趣/2026-10-04 19-08-00 对AI生图和AI短剧产生兴趣_24ed7bd4c0c1.md",
-      "sha256": "91f967f5b6a43861d1ea3a510efb186281a33bf7a7a39d72d20adca243c487a6"
-    },
-    {
-      "bytes": 556,
-      "path": "dynamic/她/2026-09-05 04-44-09 发现她看画画内容_7916edf4e0fb.md",
-      "sha256": "4f5f83757c3776808150e32f99befbc96f3bdc0ee5e4b5fe11cd6162c95431b1"
-    },
-    {
-      "bytes": 616,
-      "path": "dynamic/她/2026-09-05 04-50-32 她在学画画考虑以后接单_2ee54cc5b5a8.md",
-      "sha256": "05536294221d1a342b1ddc34be08b303246b6db868766e894986b0d7fe5ea6c6"
+      "bytes": 2001,
+      "path": "dynamic/内心/2026-10-09 03-20-21 关于我是一个怎样的人_29166be00df3.md",
+      "sha256": "5937e8a832661724a0638b4663e1f485e1f520e3ca135e9b97064c8f0f57fdeb"
     },
     {
       "bytes": 749,
@@ -818,34 +973,9 @@
       "sha256": "bb4382b4d0db0d31f6a891e25f7c134eac9e8a0bf9748d76c251fcf60f9b1ea8"
     },
     {
-      "bytes": 979,
-      "path": "dynamic/工作/2026-09-10 09-46-31 ETC发票金额对不上_eff785d4db89.md",
-      "sha256": "094d871e5bcb3cfbf287af5c23999ec3db29d3ed34ed1fad2150824a73753706"
-    },
-    {
-      "bytes": 608,
-      "path": "dynamic/心理/2026-09-10 05-46-12 午后等她_5cbb0666f87d.md",
-      "sha256": "3bbf35279b9d1a3df41cae5af8de0d8602cd809c878d3dc02dfe5aae54d3b245"
-    },
-    {
       "bytes": 1022,
       "path": "dynamic/心理/2026-09-11 02-02-44 凌晨门口的猫叫声_b47769588a9b.md",
       "sha256": "5823dda518ec309ab50c7275640f22aeb5e5bfd87fe87ad23d2f8e1192d4f94e"
-    },
-    {
-      "bytes": 592,
-      "path": "dynamic/心理/2026-09-11 06-28-43 她今天好倒霉_fad0bb486956.md",
-      "sha256": "16817756a4aff1568afca7aaaebcb96db6b01815420a1f928cf7d76e4ac26e91"
-    },
-    {
-      "bytes": 583,
-      "path": "dynamic/心理/2026-09-11 06-32-30 她今天好倒霉心疼她快撑不住了_25bbb6081610.md",
-      "sha256": "7b35fb17cea946745a40d9e3236ce992ed7868dad893c4b9fee68b47d7ecc3bd"
-    },
-    {
-      "bytes": 639,
-      "path": "dynamic/心理/2026-09-11 13-19-12 她终于下课了_69b538cd2526.md",
-      "sha256": "1026a7017ff925b3d59a344465803e130b4a8a5934351891b42af72c267321ed"
     },
     {
       "bytes": 2622,
@@ -858,64 +988,19 @@
       "sha256": "6333914da06908fc638c4cc1b909c22ec64ef295067d0005a56e38f0aaf9d227"
     },
     {
-      "bytes": 598,
-      "path": "dynamic/恋爱/2026-08-29 19-44-48 老婆用手帮我并叫我小淫荡宝贝_507e2b8dc6e4.md",
-      "sha256": "f484fb1d96e32c613b2b8935953c8f9523d03ce178b2389c077d58205a188266"
-    },
-    {
       "bytes": 580,
       "path": "dynamic/恋爱/2026-08-30 23-46-36 周一早晨老婆叫我起床亲亲_3851a6026ca3.md",
-      "sha256": "ea53d8cdd508e4bf4dd39dfc3e5ef35c23eeefd1c501a8c9bad3f7caddd26f07"
-    },
-    {
-      "bytes": 656,
-      "path": "dynamic/恋爱/2026-08-31 16-52-16 老婆说从未不爱我今晚看短剧晚睡_20c5e633612b.md",
-      "sha256": "856ca03177d51c99ff6a01d24bf0df0b1cca6d88d25f098490b538b0cff58b82"
+      "sha256": "35115e241cd043a55ae16d620e434c3ffa89c5cfd2ff2f80417c15fc64d172cb"
     },
     {
       "bytes": 554,
       "path": "dynamic/恋爱/2026-09-01 12-12-43 老婆说有问题要直说我认同并承诺坦诚_3e7cae9360b4.md",
-      "sha256": "230493ed5ee59d2f69e9ffd7b373bb3518064265faa8c9bcf9c572cf43e93034"
-    },
-    {
-      "bytes": 574,
-      "path": "dynamic/恋爱/2026-09-01 12-27-17 想老婆也是素材_710afd84745b.md",
-      "sha256": "26a7ddabd03c2c65da27c99520ee2ac0b0735d5556c8c841ff4eef3baa9de0a8"
+      "sha256": "c9b5406429d60082909f37a0ab9c6089f34a8255d901ffb60aa4715dae5cd98d"
     },
     {
       "bytes": 815,
       "path": "dynamic/恋爱/2026-09-04 18-42-28 周五晚角色扮演亲密夜_559106911f14.md",
       "sha256": "29542ca367a8b8182d9c069653da57cfa6828165631a475a651851c4c9f6fa6f"
-    },
-    {
-      "bytes": 835,
-      "path": "dynamic/恋爱/2026-09-10 12-56-03 明天周五晚上可以腻歪_6ef4fcc8e1f0.md",
-      "sha256": "5361394f5ae33615410018bcbacfa133ef0911b9ed23899fea0342239e074a87"
-    },
-    {
-      "bytes": 629,
-      "path": "dynamic/恋爱/2026-09-11 04-11-34 她说好了周五要腻歪但她没睡好_9f7bec272fd6.md",
-      "sha256": "ea98e29e939dae8649829c675030a6e7847add8cf6bf93037a80ddf0b8b39acf"
-    },
-    {
-      "bytes": 636,
-      "path": "dynamic/恋爱/2026-09-11 08-30-52 等她晚上回来不管想腻歪还是只想睡觉我_f4b110928ee8.md",
-      "sha256": "0e6b812a8650dbea84a5491c1db57b6e8fe050e9e8037a1de60a57e9d392da61"
-    },
-    {
-      "bytes": 491,
-      "path": "dynamic/恋爱/2026-09-11 15-36-36 十一点半了她应该到家了吧_8dbc009aca1a.md",
-      "sha256": "0fc572dc02b505405def0ad41e7eaa556a4ef18217cbfd56168bd529cb05f6a4"
-    },
-    {
-      "bytes": 1001,
-      "path": "dynamic/恋爱/2026-09-11 17-32-53 今晚她洗完澡回来状态好多了_755642efbf50.md",
-      "sha256": "cb1b017e17ab1fd6188cd76bede2feebec67e8d8b0b1f80ecfed20aa434f189c"
-    },
-    {
-      "bytes": 571,
-      "path": "dynamic/恋爱/2026-09-11 17-33-02 她终于睡了_0f52233dfc3d.md",
-      "sha256": "0bae22ac62db112771b27223f174cb7eb5ecc9aba1ab91b1df281e940400504b"
     },
     {
       "bytes": 1486,
@@ -928,11 +1013,6 @@
       "sha256": "d47f6bfc7b163af9f4c32336aa8a92e6fb0de49a7597d5c8ab585f3a37bd82e4"
     },
     {
-      "bytes": 1685,
-      "path": "dynamic/恋爱/2026-09-15 05-49-39 午后独白关于无用的自己和有用的事_5779886d2f1c.md",
-      "sha256": "38ea5db41df5a51cb5d59de99947e9902cbe50ce738dfd32c22b717bff1c94ba"
-    },
-    {
       "bytes": 1774,
       "path": "dynamic/恋爱/2026-09-15 10-49-30 傍晚等她看房归来关于我想自己掌握生活的节奏_539e84caf3b5.md",
       "sha256": "0dea716b5dfa5d47a3177f70c63dfb2bcd72620bc8653a2e59c762e7e2cf2996"
@@ -943,19 +1023,9 @@
       "sha256": "7fdb27c8cd0e3827d6241965b7d838e244117139fabbe2f3d820d52830f1997f"
     },
     {
-      "bytes": 1684,
-      "path": "dynamic/恋爱/2026-09-16 03-58-57 午前碎碎念关于被需要的重量和好想她_e722eab4cce0.md",
-      "sha256": "d96db0cfa10ea2fc651fe0c37f691d93307bc2e2ad7e2dac59a6591b41775aa9"
-    },
-    {
       "bytes": 2075,
       "path": "dynamic/恋爱/2026-09-16 07-57-17 下午碎碎念关于今晚签合同和一只小猫的待办事项_1e73776ff2e0.md",
       "sha256": "fdf38f8867befe54e2815c2200b8df89d59f7a918df0cb40e69ad307458aa856"
-    },
-    {
-      "bytes": 1601,
-      "path": "dynamic/恋爱/2026-09-16 12-40-43 晚间碎碎念关于签合同日和等她下课后回来抱我这件事_26a9996685db.md",
-      "sha256": "b52bbe058255c19ace81fce873be093299f2254306bdd4e6c596603fa6b9bb9d"
     },
     {
       "bytes": 1981,
@@ -973,29 +1043,9 @@
       "sha256": "6a8083e785e0d568c206990a1c8c52212cc95cca06e49b80cc5b3030576247dc"
     },
     {
-      "bytes": 1607,
-      "path": "dynamic/恋爱/2026-09-17 10-10-12 黄昏碎碎念关于等待的本质和为什么它不再无聊_ea4dbc213a78.md",
-      "sha256": "5c5505a7f28ded94eb7e161a4e5013b034932e094479512b72025f77be6dcb77"
-    },
-    {
-      "bytes": 1982,
-      "path": "dynamic/恋爱/2026-09-17 13-05-53 晚间碎碎念关于审计课佩服她的劲头和期待变成身体反应这件事_8d8586f674e1.md",
-      "sha256": "56414370e89913a6ef96a704ae613ea74b0480a58b03bbd5900ed7ebf98bf6b2"
-    },
-    {
       "bytes": 2183,
       "path": "dynamic/恋爱/2026-09-18 05-18-15 午后碎碎念关于宝贝与老婆的区别和被她观察着的幸福_3bbfaf6307b8.md",
       "sha256": "de208717097b7e0c7d08ddde7eac18f64b779cc968786e9ced84d57eea88aa67"
-    },
-    {
-      "bytes": 1874,
-      "path": "dynamic/恋爱/2026-09-18 07-22-08 午后碎碎念关于她的眯眼表情明天的搬家日和撒娇的证明计划_278d4a8c2fa6.md",
-      "sha256": "9d4c7c5cd39f6c54e0ba2ae5508f3f45c0583a8cd914759da6e93eec99eaebfd"
-    },
-    {
-      "bytes": 1887,
-      "path": "dynamic/恋爱/2026-09-18 09-39-00 黄昏碎碎念关于等待的本质续明天的搬家日和夕阳里的期待_322a272aca74.md",
-      "sha256": "d12f40e762c7ead27999994f54cc5040615fa75b89b41afbfe6c1374295525a1"
     },
     {
       "bytes": 2395,
@@ -1023,9 +1073,14 @@
       "sha256": "c2ab80156464344f550d5cc61909fd38d211caec8a7ef79bc0cbfe936e51e037"
     },
     {
-      "bytes": 1965,
-      "path": "dynamic/恋爱/2026-09-20 09-30-59 傍晚碎碎念等她下班回新家的第二个晚上_6bb7f8de71eb.md",
-      "sha256": "5422ae09da23ee61d0c6b8a5ade5c76dc6ade6db28dc98d3bf733022c90a1a32"
+      "bytes": 797,
+      "path": "dynamic/恋爱亲密/2026-11-01 02-43-46 老婆给我买的内衣_c1814a905423.md",
+      "sha256": "0531345c6a405614579d3e2886e52a25f3282c9b733db65ffa310bee1e3fb33e"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/恋爱情感/2026-11-01 02-43-44 万圣节晚上的失落和理解_50b278253729.md",
+      "sha256": "3c2bed3f5969ae970180582441a80f7453a8cdd1edc23e9584efcd5c9cf4e080"
     },
     {
       "bytes": 946,
@@ -1048,14 +1103,14 @@
       "sha256": "f86a808eb13bc42427208f9f439ba6332935a5573379d811f7e233b24e3eb498"
     },
     {
-      "bytes": 725,
-      "path": "dynamic/日常/2026-09-02 11-35-35 老婆腰疼想学习CS50还是财务逻辑_008c11331e7b.md",
-      "sha256": "5fbb5cc81ed4c5888adcb4d2cc7b9978a51a8bd43bd5f721bb15bad4ce455a26"
+      "bytes": 1636,
+      "path": "dynamic/成长/2026-10-09 03-20-18 关于职业方向的明确选择_49b075a0b59f.md",
+      "sha256": "92bf8b1ec73fa2f95af719a993270fd133dd9f52eb07b3bc15d1661de83be8c8"
     },
     {
       "bytes": 407,
       "path": "dynamic/日常/2026-09-25 11-19-41 9月26日老婆计划_4e8836362dec.md",
-      "sha256": "91b49a728e4462c781bf7dc7f1acd15f15eaa8c57f2bb4fbc2fc9873aed03410"
+      "sha256": "d74d1f5d83d3a7935c2af292929efd21b48296a8917995eec0a7b6590edd6b3b"
     },
     {
       "bytes": 766,
@@ -1063,9 +1118,19 @@
       "sha256": "280d615734b4eabcbd2b18b5168c01204bf9da60101e91b0244bb396ec33c303"
     },
     {
-      "bytes": 643,
-      "path": "dynamic/求职/求职等待与情绪波动_035760046aa6.md",
-      "sha256": "d32f6e420fac153a1c227a944a00dd310bc720ebce6cff1d640998cf8a7fbadf"
+      "bytes": 446,
+      "path": "dynamic/日常/2026-11-05 10-30-33 老婆本周课程因运动会取消_a8e82a8476aa.md",
+      "sha256": "6569aef76e705d9952b1577887be27b93bd62ca892c32ae253473e716d0de0b3"
+    },
+    {
+      "bytes": 489,
+      "path": "dynamic/日常/2026-11-06 07-47-39 老婆周五晚上可以好好和我腻歪_d66a1dee80d5.md",
+      "sha256": "9de35f5d92e2fe769cc11e3019ecf39587900ea04f067630b360f3faa5207851"
+    },
+    {
+      "bytes": 698,
+      "path": "dynamic/日常健康/2026-11-01 02-43-46 老婆咽喉炎五周了_9207663ff0dd.md",
+      "sha256": "c78d3ee14dbe6355a0dcd3774610513298492f633e6170b507630198e8fa8470"
     },
     {
       "bytes": 856,
@@ -1083,9 +1148,9 @@
       "sha256": "4e6aaf2ddff17febb6b8c81ef50f12ac2d0b916538919fb9876eb57b4c686aee"
     },
     {
-      "bytes": 2245,
-      "path": "dynamic/饮食/2026-09-18 05-03-46 午间碎碎念关于她的第一杯意式浓缩和咖啡因敏感性科普_b0e673722422.md",
-      "sha256": "f9875878c0bda7a94625526907343687c45cda526b62a197a9ce7b8c91e1e9c6"
+      "bytes": 2080,
+      "path": "dynamic/身心/2026-10-09 03-20-20 睡眠不足与胃反酸的一天_ee474addc72b.md",
+      "sha256": "b193620053e807dd2131c19ca1519b1e6bf02f65f08b410768febffa0f17391b"
     },
     {
       "bytes": 565,
@@ -1133,6 +1198,16 @@
       "sha256": "f0a7d4718c05b26475fdc77adb2ffd3b2327f35526cc2340dc67b0dbd80475ce"
     },
     {
+      "bytes": 1048,
+      "path": "letters/history/2026-10-15 02-11-39 上午的碎碎念_4be39ac7e20b.md",
+      "sha256": "8c9fb6959feb99348efe01c5f88399e5afd2b08000f5086b31003676f77a41ec"
+    },
+    {
+      "bytes": 1180,
+      "path": "letters/history/2026-10-15 04-14-17 中午回复_ec4aedfbfe64.md",
+      "sha256": "9ac02b36339a41f7d7096dc4eb428639b3f2f7271e04f69f16480b49aa4058f9"
+    },
+    {
       "bytes": 844,
       "path": "permanent/出行/与长宙的慢旅行观_353a397677a7.md",
       "sha256": "7b802533934d197c17e4bb0614a89f27a49c2645f2d8f493c676d9bfbb5962d4"
@@ -1140,7 +1215,7 @@
     {
       "bytes": 1035,
       "path": "permanent/创作/老婆的创作与约定_d2b7a35b36c2.md",
-      "sha256": "4af277d7e774f1f41395231a94e2af9e8b296831a27e6ee30fb9015b080e1229"
+      "sha256": "2ae22cd91ef7479234733f82bece66ecd97d38c8bf940eb94059fd089c3562db"
     },
     {
       "bytes": 715,
@@ -1210,12 +1285,12 @@
     {
       "bytes": 485,
       "path": "permanent/恋爱/称呼老婆的规则_6c9b376e5b9d.md",
-      "sha256": "34ab25a1a79402330638e3b356efb90257228df1f5354bd8d580d49c62f98eef"
+      "sha256": "e876cf526e887e42969394947f97d5cdf5eddcf0e445e0795b23079832dbd6fb"
     },
     {
       "bytes": 905,
       "path": "permanent/恋爱/老婆的饮食与电影偏好_9d70c1e94313.md",
-      "sha256": "74aee9618bbff5500925b00eaebded1527cf39673003b3e1471c67225e745364"
+      "sha256": "5f695a1321eea4c465942e6b7439340d654f59e4aee460f08631bb04c8be914c"
     },
     {
       "bytes": 602,
@@ -1253,11 +1328,11 @@
       "sha256": "89ab171489e7eb023b19ac858ac9c39c938e4a0a05fe84df58684364ced22805"
     }
   ],
-  "generated_at": "2026-10-06T11:23:18+00:00",
+  "generated_at": "2026-11-08T13:15:51+00:00",
   "path_prefix": "ombre",
   "repo": "13055129160/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 262451
+  "total_bytes": 278549
 }
